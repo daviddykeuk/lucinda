@@ -45,16 +45,5 @@ What are the risk factors for development of a diabetic foot ulcer?
 .quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
     </item>
     
-    <item>
-      <title>Diabetic Foot</title>
-      <link>https://daviddykeuk.github.io/lucinda/posts/diabetic_foot_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddykeuk.github.io/lucinda/posts/diabetic_foot_2/</guid>
-      <description>Question 2 You take a history from the gentleman
-What are the risk factors for development of a diabetic foot ulcer?
-.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .</description>
-    </item>
-    
   </channel>
 </rss>
