@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucinda&#39;s tests</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Lucinda&#39;s tests</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vascular_history</title>
+      <link>https://examplesite.com/vascular_history/</link>
+      <pubDate>Thu, 11 Feb 2021 17:48:59 +0000</pubDate>
+      
+      <guid>https://examplesite.com/vascular_history/</guid>
+      <description>Question 2 You take a history from the gentleman
+What are the risk factors for development of a diabetic foot ulcer?</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://examplesite.com/diabetic_foot_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/diabetic_foot_2/</guid>
+      <description>Question 2 You take a history from the gentleman
+What are the risk factors for development of a diabetic foot ulcer?
+.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://examplesite.com/diabetic_foot_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/diabetic_foot_3/</guid>
+      <description>Question 3 What measures can be taken in the community to prevent development of diabetic ulcers? .quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://examplesite.com/posts/diabetic_foot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/diabetic_foot/</guid>
+      <description>Question 1 A 60 year old man is referred to the diabetic clinic. He has a history of poorly controlled T2DM and has developed a small ulcer within a callus on the plantar aspect of his foot, over the first metatarsal head. The gentleman reports no pain.
+.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
+    </item>
+    
+  </channel>
+</rss>
