@@ -83,12 +83,16 @@ Quiz.prototype.submit = function () {
     } else if (choices.length < q.rightOptions.length) {
       // not enough selected
       q.renderWrong();
+      // show result
+      var result = new Result(0, 1).render(this.id);
     } else {
       q.renderRight();
+      var result = new Result(1, 0).render(this.id);
       for (var choice of choices) {
         // evaluate
         if (!q.isRight(choice)) {
           q.renderWrong();
+          result = new Result(0, 1).render(this.id);
           wrong += 1;
           break;
         }
@@ -96,13 +100,9 @@ Quiz.prototype.submit = function () {
     }
   }
   right = this.getQuestions().length - wrong - missing;
-
-  // show result
-  var result = new Result(right, wrong).render(this.id);
 };
 
 /**
- * @param {integer} missing
  * @param {integer} right
  * @param {integer} wrong
  */
@@ -111,22 +111,18 @@ function Result(right, wrong) {
 
   var icons = ['<i class="fas fa-check"></i>', '<i class="fas fa-times"></i>'];
 
-  var labels = ["Right", "Wrong"],
-    tr = document.createElement("tr");
+  var labels = ["Correct", "Incorrect"];
+  var tr = document.createElement("tr");
 
-  for (var i = 0; i < arguments.length; i += 1) {
-    var label = document.createElement("td");
-    // score = document.createElement("td");
-
-    label.className = labels[i].toLowerCase() + "-label";
-    // score.className = labels[i].toLowerCase() + "-score";
-
-    label.innerHTML = icons[i] + " " + labels[i] + ": " + arguments[i];
-    //score.innerHTML = arguments[i];
-
-    tr.appendChild(label);
-    // tr.appendChild(score);
+  var label = document.createElement("td");
+  if (wrong == 0) {
+    label.className = "correct-label";
+    label.innerHTML = "Correct!";
+  } else {
+    label.className = "incorrect-label";
+    label.innerHTML = "Incorrect!";
   }
+  tr.appendChild(label);
 
   this.html.appendChild(tr);
 }

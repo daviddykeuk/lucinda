@@ -12,7 +12,7 @@
       
       <guid>https://daviddykeuk.github.io/lucinda/posts/diabetic_foot/</guid>
       <description>Question 1 A 60 year old man is referred to the diabetic clinic. He has a history of poorly controlled T2DM and has developed a small ulcer within a callus on the plantar aspect of his foot, over the first metatarsal head. The gentleman reports no pain.
-.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
     </item>
     
   </channel>

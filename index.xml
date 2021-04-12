@@ -23,7 +23,7 @@ What are the risk factors for development of a diabetic foot ulcer?</description
       <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_2/</guid>
       <description>Question 2 You take a history from the gentleman
 What are the risk factors for development of a diabetic foot ulcer?
-.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .</description>
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .</description>
     </item>
     
     <item>
@@ -32,7 +32,57 @@ What are the risk factors for development of a diabetic foot ulcer?
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_3/</guid>
-      <description>Question 3 What measures can be taken in the community to prevent development of diabetic ulcers? .quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
+      <description>Question 3 What measures can be taken in the community to prevent development of diabetic ulcers? .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://daviddykeuk.github.io/lucinda/diabetic_foot_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_4/</guid>
+      <description>Question 4 You examine the gentleman and note reduced sensation below the ankle on both feet. You cannot palpate the foot pulses and CRT 5s bilaterally.
+What is the next investigation you would request to assess his arterial system?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://daviddykeuk.github.io/lucinda/diabetic_foot_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_5/</guid>
+      <description>Question 5 When you examine this gentleman’s foot ulcer, you find a deep 1cmx1cm ulcer. There is erythema, 3cm around the ulcer, exudate and an offensive smell.
+How would you treat this? .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://daviddykeuk.github.io/lucinda/diabetic_foot_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_6/</guid>
+      <description>Question 6 Clinically, you are concerned that the infection may go down to the bone. You take an x-ray which shows the following:
+What would you do next? .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://daviddykeuk.github.io/lucinda/diabetic_foot_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_7/</guid>
+      <description>Question 7 The gentleman is admitted for intravenous antibiotics. The ulcer grows in size and is associated with increasing erythema. The patient becomes febrile and tachycardic. He is taken to theatre for debridement and deep tissue/bone sample. Bone sample confirms osteomyelitis and he is commenced on flucloxacillin, as per sensitivities.
+What is the minimum antibiotic course for an individual with confirmed osteomyelitis? .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Foot</title>
+      <link>https://daviddykeuk.github.io/lucinda/diabetic_foot_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_8/</guid>
+      <description>Summary Background  Diabetic foot disease includes: infection; ulceration and tissue loss Diabetic foot disease affects just under 6% of people with diabetes Foot ulceration increases an individuals risk of infection and amputation Complications can be prevented with good foot care and screening These patients require a multi disciplinary team to provide comprehensive care to prevent these complication  Causes  Types of diabetic foot ulcers include: Neuropathic – secondary to peripheral neuropathy Ischaemic – secondary to peripheral arterial disease Mixed – a combination of neuropathic and ischaemic Peripheral arterial disease Diabetes causes damages to blood vessels by inflammation and atherosclerosis.</description>
     </item>
     
     <item>
@@ -42,7 +92,7 @@ What are the risk factors for development of a diabetic foot ulcer?
       
       <guid>https://daviddykeuk.github.io/lucinda/posts/diabetic_foot/</guid>
       <description>Question 1 A 60 year old man is referred to the diabetic clinic. He has a history of poorly controlled T2DM and has developed a small ulcer within a callus on the plantar aspect of his foot, over the first metatarsal head. The gentleman reports no pain.
-.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
     </item>
     
   </channel>
