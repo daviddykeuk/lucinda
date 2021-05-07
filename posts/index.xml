@@ -37,6 +37,17 @@ Question 1 What is your diagnosis?
     </item>
     
     <item>
+      <title>Superficial Venous Disease</title>
+      <link>https://daviddykeuk.github.io/lucinda/posts/superficial_venous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/posts/superficial_venous/</guid>
+      <description>A 60 year old lady is referred to the vascular outpatient clinic for assessment of varicose veins.
+Question 1 What are the risk factors for varicose veins?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.</description>
+    </item>
+    
+    <item>
       <title>Vascular History</title>
       <link>https://daviddykeuk.github.io/lucinda/posts/vascular_history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
