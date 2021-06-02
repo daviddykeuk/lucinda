@@ -45,7 +45,7 @@ Question 4 What investigation will confirm the diagnosis?
       
       <guid>https://daviddykeuk.github.io/lucinda/abdominal_aortic_aneurysm_5/</guid>
       <description>CT scan confirms a ruptured AAA.
-Question 3 Besides rupture, what other complications can result from an AAA?
+Question 5 Besides rupture, what other complications can result from an AAA?
 .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
     </item>
     
@@ -168,7 +168,7 @@ Her problem list is:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/acute_limb_8/</guid>
-      <description>Background  Acute limb ischaemia is a sudden decrease in arterial perfusion of a limb which threatens it viability The limb can survive for between 4-6 hours before irreversible tissue damage Acute on chronic limb ischaemia is usually secondary to thrombosis in patients with pre-existing arterial disease where atherosclerotic plaque rupture leads to lumen reduction and thrombosis  Causes  Causes can be divided into embolic and thrombotic Thrombotic causes account for 80-85% of cases Thrombotic causes include: atherosclerosis; low flow (congestive cardiac failure; hypovolaemia); arteritis; external compression; dissection; hypercoagulation, malignancy Embolic causes include: atherosclerotic plaque or thrombus from the heart, more proximal arteries or aortic/peripheral aneurysms; valvular heart disease (rheumatic, bacterial); iatrogenic; trauma; paradoxical emboli  Risk factors:  Non modifiable: age Modifiable: hypertension; hyperlipidaemia; smoking; diabetes; obesitycancer  Presentation  Acute limb ischaemia is characterised by the 6 P’s: pain; pallor; paraesthesia; paralysis; pulselessness; perishing cold.</description>
+      <description>Background  Acute limb ischaemia is a sudden decrease in arterial perfusion of a limb which threatens it viability The limb can survive for between 4-6 hours before irreversible tissue damage Acute on chronic limb ischaemia is usually secondary to thrombosis in patients with pre-existing arterial disease where atherosclerotic plaque rupture leads to lumen reduction and thrombosis  Causes  Causes can be divided into embolic and thrombotic Thrombotic causes account for 80-85% of cases Thrombotic causes include: atherosclerosis; low flow (congestive cardiac failure; hypovolaemia); arteritis; external compression; dissection; hypercoagulation, malignancy Embolic causes include: atherosclerotic plaque or thrombus from the heart, more proximal arteries or aortic/peripheral aneurysms; valvular heart disease (rheumatic, bacterial); iatrogenic; trauma; paradoxical emboli  Risk factors:  Non modifiable: age Modifiable: hypertension; hyperlipidaemia; smoking; diabetes; obesity; cancer  Presentation  Acute limb ischaemia is characterised by the 6 P’s: pain; pallor; paraesthesia; paralysis; pulselessness; perishing cold.</description>
     </item>
     
     <item>
@@ -329,7 +329,7 @@ Question 7 What intraoperative complication are you concerned about?
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/carotid_disease_8/</guid>
-      <description>Presentation  Carotid disease is often asymptomatic It is usually diagnosed when individuals are investigated for a stroke or TIA Carotid artery plaques may embolise and cause symptoms of stroke/TIA/amurosis fugax  Risk Factors  Non modifiable: age; family history Modifiable: Hypertension; hyperlipidaemia; smoking; diabetes; obesity; sleep apnoea  Diagnosis  Initial investigations include bloods, ECG (assess for AF as source of emboli), CT head (to assess for cerebral infarction) Degree of carotid stenosis on duplex ultrasound  Management  MDT decision is recommended to achieve consensus for treatment Best medical therapy is recommended for all individuals with carotid disease.</description>
+      <description>Presentation  Carotid disease is often asymptomatic It is usually diagnosed when individuals are investigated for a stroke or TIA Carotid artery plaques may embolise and cause symptoms of stroke/TIA/amaurosis fugax  Risk Factors  Non modifiable: age; family history Modifiable: Hypertension; hyperlipidaemia; smoking; diabetes; obesity; sleep apnoea  Diagnosis  Initial investigations include bloods, ECG (assess for AF as source of emboli), CT head (to assess for cerebral infarction) Degree of carotid stenosis on duplex ultrasound  Management  MDT decision is recommended to achieve consensus for treatment Best medical therapy is recommended for all individuals with carotid disease.</description>
     </item>
     
     <item>
@@ -505,7 +505,7 @@ What is the minimum antibiotic course for an individual with confirmed osteomyel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_8/</guid>
-      <description>Summary Background  Diabetic foot disease includes: infection; ulceration and tissue loss Diabetic foot disease affects just under 6% of people with diabetes Foot ulceration increases an individuals risk of infection and amputation Complications can be prevented with good foot care and screening These patients require a multi disciplinary team to provide comprehensive care to prevent these complication  Causes  Types of diabetic foot ulcers include: Neuropathic – secondary to peripheral neuropathy Ischaemic – secondary to peripheral arterial disease Mixed – a combination of neuropathic and ischaemic Peripheral arterial disease Diabetes causes damages to blood vessels by inflammation and atherosclerosis.</description>
+      <description>Summary Background  Diabetic foot disease includes: infection; ulceration and tissue loss Diabetic foot disease affects just under 6% of people with diabetes Foot ulceration increases an individuals risk of infection and amputation Complications can be prevented with good foot care and screening These patients require a multi disciplinary team to provide comprehensive care to prevent these complication  Causes  Types of diabetic foot ulcers include:  Neuropathic – secondary to peripheral neuropathy Ischaemic – secondary to peripheral arterial disease Mixed – a combination of neuropathic and ischaemic Peripheral arterial disease Diabetes causes damages to blood vessels by inflammation and atherosclerosis.</description>
     </item>
     
     <item>
@@ -515,7 +515,8 @@ What is the minimum antibiotic course for an individual with confirmed osteomyel
       
       <guid>https://daviddykeuk.github.io/lucinda/posts/diabetic_foot/</guid>
       <description>Question 1 A 60 year old man is referred to the diabetic clinic. He has a history of poorly controlled T2DM and has developed a small ulcer within a callus on the plantar aspect of his foot, over the first metatarsal head. The gentleman reports no pain.
-.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .</description>
+Why does the patient not feel pain in the foot?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.</description>
     </item>
     
     <item>
@@ -594,7 +595,7 @@ What is the minimum antibiotic course for an individual with confirmed osteomyel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/examination_9/</guid>
-      <description>Lower limb arterial examination Inspection  Colour (mottling, pallor, necrosis) Ulcers (located at pressure points, small, well defined, punched out edges, deep and painful) – describe site, size, shape, base, surrounding skin. Trophic changes (hair loss, shiny skin) Scars Previous amputation Gangrene  Palpation  Temperature Capillary refill time Pulses (radial – brachial – carotid – aorta – femoral – popliteal – dorsalis pedis – posterior tibial) Gross sensation  Special tests  Berger’s With the patient lying flat on the bed, elevate the straight legs until the toes become pale.</description>
+      <description>Lower limb arterial examination Inspection  Colour (mottling, pallor, necrosis) Ulcers (located at pressure points, small, well defined, punched out edges, deep and painful) – describe site, size, shape, base, surrounding skin. Trophic changes (hair loss, shiny skin) Scars Previous amputation Gangrene  Palpation  Temperature Capillary refill time Pulses (radial – brachial – carotid – aorta – femoral – popliteal – dorsalis pedis – posterior tibial) Gross sensation  Special tests  Buerger’s: With the patient lying flat on the bed, elevate the straight legs until the toes become pale.</description>
     </item>
     
     <item>
@@ -779,6 +780,92 @@ Question 8 What are the complications of endovenous treatment
       
       <guid>https://daviddykeuk.github.io/lucinda/vascular_history_8/</guid>
       <description>Summary Presenting complaint Pain: SOCRATES  Aneurysm: Usually asymptomatic but patients may report abdominal or back pain Peripheral arterial disease: A cramping type pain in the buttock or calf which occurs with exertion, usually at a consistent distance. The pain is relieved by rest. Ask how far the patient can walk before they have pain/need to stop (claudication distance). In critical limb ischaemia, individuals describe rest pain or night pain, which is relieved by hanging the foot over the edge of the bed.</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/posts/vascular_investigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/posts/vascular_investigation/</guid>
+      <description>You are reviewing a patient in the vascular outpatient clinic who reports calf pain on mobilisation. On examination, you cannot palpate the pedal pulses.
+Question 1 could you assess for pedal pulses in clinic?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_2/</guid>
+      <description>You perform an ABPI. The gentleman has an ABPI of 0.5 in both lower limbs and a monophasic waveform.
+Question 2 What waveform would you expect on handheld Doppler for an individual with healthy blood vessels?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_3/</guid>
+      <description>The gentleman undergoes the following investigation
+Question 3 What investigation does the above image represent?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_4/</guid>
+      <description>Question 4 An 80 year old man with a history of hypertension, T2DM and OSA presents to A&amp;amp;E with sudden onset back pain. He is noted to be hypotensive.
+You suspect a AAA. What investigation would you organise to make the diagnosis?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_5/</guid>
+      <description>Question 5 The gentleman has a CT which confirms a AAA.
+What is represented by A in the CT?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_6/</guid>
+      <description>Question 6 The gentleman has a CT which confirms a AAA.
+What is represented by B in the CT?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_7/</guid>
+      <description>Question 7 The gentleman undergoes endovascular repair of his AAA.
+What type of imaging is being used above?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
+    </item>
+    
+    <item>
+      <title>Vascular Investigations</title>
+      <link>https://daviddykeuk.github.io/lucinda/vascular_investigations_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/vascular_investigations_8/</guid>
+      <description>Doppler Principles  Uses the change in frequency of sound waves reflected off a moving object Used to determine the velocity of blood Triphasic waveform represents a healthy vessel. Biphasic and monophasic represent a diseased vessel wall. Triphasic:  Phase 1. In systole, blood accelerates forwards Phase 2. At the end of systole, a drop in pressure leads to reverse flow in the vessel Phase 3. Elastic recoil in the vessel wall leads to forward flow in the vessel   Biphasic:  Occurs when vessels lose their elasticity Loss of phase 3   Monophasic:  One sound produced Represents vessel damage Loss of phases 2 and 3    Indications  Assessment of pulses Calculate ABPI  Advantages  Non invasive Quick and convenient  Limitations  Limited information You can never find a hand held Doppler on the ward!</description>
     </item>
     
   </channel>
