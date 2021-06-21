@@ -173,17 +173,6 @@ Her problem list is:
     
     <item>
       <title>Acute Type B dissection</title>
-      <link>https://daviddykeuk.github.io/lucinda/posts/acute_disection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviddykeuk.github.io/lucinda/posts/acute_disection/</guid>
-      <description>A 69 year old gentleman with a history of dementia presents to A&amp;amp;E with a two day history of worsening back pain and chest pain. His ECG was normal and he underwent a CT angiography.
-Question 1 What is the diagnosis?
-.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
-    </item>
-    
-    <item>
-      <title>Carotid Disease</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -194,7 +183,7 @@ Question 2 You diagnose aortic dissection. What is the pathophysiology?
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -205,7 +194,7 @@ Question 3 What are the potential signs and symptoms of an aortic dissection
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -216,7 +205,7 @@ Question 4 What are the risk factors for aortic dissection?
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -227,7 +216,7 @@ Question 5 What is the first line treatment option for uncomplicated, haemodynam
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -238,7 +227,7 @@ Question 6 What are the complications of an aortic dissection?
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -249,12 +238,23 @@ Question 7 What are the long-term measures to prevent aortic dissection?
     </item>
     
     <item>
-      <title>Carotid Disease</title>
+      <title>Acute Type B dissection</title>
       <link>https://daviddykeuk.github.io/lucinda/acute_dissection_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/acute_dissection_8/</guid>
       <description>Definitions  Acute aortic syndrome includes aortic dissection, intra-mural haematoma (IMH) and penetrating aortic ulcer (PAU), which are a spectrum of conditions with similar presentation and management Aortic dissection occurs when there is a breach in the intima (inner layer of the vessel wall) and blood tracks between the intima and media, leading to a true and false lumen An aneurysm is a 50% increase in the normal diameter of a vessel.</description>
+    </item>
+    
+    <item>
+      <title>Acute Type B dissection</title>
+      <link>https://daviddykeuk.github.io/lucinda/posts/acute_disection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviddykeuk.github.io/lucinda/posts/acute_disection/</guid>
+      <description>A 69 year old gentleman with a history of dementia presents to A&amp;amp;E with a two day history of worsening back pain and chest pain. His ECG was normal and he underwent a CT angiography.
+Question 1 What is the diagnosis?
+.quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.</description>
     </item>
     
     <item>
@@ -505,7 +505,7 @@ What is the minimum antibiotic course for an individual with confirmed osteomyel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/diabetic_foot_8/</guid>
-      <description>Summary Background  Diabetic foot disease includes: infection; ulceration and tissue loss Diabetic foot disease affects just under 6% of people with diabetes Foot ulceration increases an individuals risk of infection and amputation Complications can be prevented with good foot care and screening These patients require a multi disciplinary team to provide comprehensive care to prevent these complication  Causes  Types of diabetic foot ulcers include:  Neuropathic – secondary to peripheral neuropathy Ischaemic – secondary to peripheral arterial disease Mixed – a combination of neuropathic and ischaemic Peripheral arterial disease Diabetes causes damages to blood vessels by inflammation and atherosclerosis.</description>
+      <description>Summary Background  Diabetic foot disease includes: infection; ulceration and tissue loss Diabetic foot disease affects just under 6% of people with diabetes Foot ulceration increases an individuals risk of infection and amputation Complications can be prevented with good foot care and screening These patients require a multi disciplinary team to provide comprehensive care to prevent these complication  Causes  Types of diabetic foot ulcers include:  Neuropathic – secondary to peripheral neuropathy Ischaemic – secondary to peripheral arterial disease Mixed – a combination of neuropathic and ischaemic   Peripheral arterial disease  Diabetes causes damages to blood vessels by inflammation and atherosclerosis.</description>
     </item>
     
     <item>
@@ -719,7 +719,7 @@ Question 8 What are the complications of endovenous treatment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daviddykeuk.github.io/lucinda/vascular_history_2/</guid>
-      <description>Question 2 What symptoms would you expect someone with venous disease to describe? Select all that apply
+      <description>Question 2 What symptoms would you expect someone with venous disease to describe?
 .quiz fieldset { border-color: black; border-width: 5px; margin-bottom: 1em; } .quiz legend { font-size: 1.3rem; font-weight: bold; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 20px; } .quiz .hint { border: 2px solid gray; border-radius: 5px; padding: 5px; font-size:1.25rem; font-weight: bold; } .quiz label { display: block; font-size:1.25rem; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .</description>
     </item>
     
